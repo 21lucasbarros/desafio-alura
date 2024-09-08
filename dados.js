@@ -124,5 +124,101 @@ let dados = [
         descricao: "Steven Spielberg é um dos diretores mais influentes e bem-sucedidos da história do cinema. Seus filmes abrangem uma vasta gama de gêneros, desde aventuras épicas como 'Jurassic Park' e 'Indiana Jones' até dramas comoventes como 'A Lista de Schindler'. Conhecido por sua habilidade em criar experiências cinematográficas emocionantes e universalmente apelativas, Spielberg continua a ser uma força inovadora no cinema.",
         link: "https://pt.wikipedia.org/wiki/Steven_Spielberg",
         tags: "Jurassic Park, E.T., Tubarão, A Lista de Schindler, Indiana Jones"
+    },
+    {
+    titulo: "Alfred Hitchcock",
+        descricao: "Alfred Hitchcock, conhecido como o 'mestre do suspense', foi um dos cineastas mais influentes de todos os tempos. Seus filmes, como 'Psicose' e 'Janela Indiscreta', são exemplos perfeitos de sua habilidade em manipular o público com técnicas visuais inovadoras e narrativas emocionantes. Hitchcock foi um pioneiro em explorar temas psicológicos e a natureza humana por meio de seus thrillers.",
+        link: "https://pt.wikipedia.org/wiki/Alfred_Hitchcock",
+        tags: "Psicose, Janela Indiscreta, Um Corpo que Cai, Os Pássaros, Festim Diabólico"
+    },
+    {
+        titulo: "Stanley Kubrick",
+        descricao: "Stanley Kubrick foi um dos cineastas mais inovadores e versáteis, conhecido por sua meticulosidade e domínio técnico. Seus filmes, como '2001: Uma Odisseia no Espaço', são exemplos de sua capacidade de explorar temas complexos com profundidade filosófica e visual. Kubrick deixou um legado de obras influentes e atemporais, incluindo 'Laranja Mecânica' e 'O Iluminado'.",
+        link: "https://pt.wikipedia.org/wiki/Stanley_Kubrick",
+        tags: "2001: Uma Odisseia no Espaço, Laranja Mecânica, O Iluminado, Dr. Fantástico, Nascido para Matar"
+    },
+    {
+        titulo: "Akira Kurosawa",
+        descricao: "Akira Kurosawa foi um cineasta japonês cujo trabalho influenciou cineastas em todo o mundo. Conhecido por sua habilidade em contar histórias épicas com um profundo senso de humanidade, seus filmes como 'Os Sete Samurais' e 'Rashomon' são considerados marcos do cinema. Kurosawa é aclamado por sua direção visual inovadora e por criar narrativas poderosas.",
+        link: "https://pt.wikipedia.org/wiki/Akira_Kurosawa",
+        tags: "Os Sete Samurais, Rashomon, Yojimbo, Kagemusha, Ran"
+    },
+    {
+        titulo: "Francis Ford Coppola",
+        descricao: "Francis Ford Coppola é um dos mais importantes diretores do cinema americano, responsável por obras-primas como 'O Poderoso Chefão' e 'Apocalypse Now'. Seu trabalho é marcado pela exploração de temas complexos como poder, família e guerra. Coppola é amplamente elogiado por sua habilidade em criar narrativas épicas e envolventes.",
+        link: "https://pt.wikipedia.org/wiki/Francis_Ford_Coppola",
+        tags: "O Poderoso Chefão, Apocalypse Now, Drácula de Bram Stoker, A Conversação"
+    },
+    {
+        titulo: "David Lynch",
+        descricao: "David Lynch é conhecido por seu estilo surrealista e sua habilidade em explorar os lados mais sombrios da mente humana. Seus filmes, como 'Cidade dos Sonhos' e 'Veludo Azul', misturam realidade e fantasia de maneira perturbadora e fascinante. Lynch é aclamado por seu estilo visual único e sua capacidade de criar atmosferas inquietantes.",
+        link: "https://pt.wikipedia.org/wiki/David_Lynch",
+        tags: "Cidade dos Sonhos, Veludo Azul, O Homem Elefante, Twin Peaks"
+    },
+    {
+        titulo: "Peter Jackson",
+        descricao: "Peter Jackson é um cineasta neozelandês mais conhecido por sua adaptação monumental de 'O Senhor dos Anéis', que se tornou um marco no cinema de fantasia. Sua habilidade em combinar narrativa épica com efeitos visuais impressionantes fez dele um dos diretores mais respeitados do gênero. Jackson também dirigiu 'King Kong' e 'O Hobbit'.",
+        link: "https://pt.wikipedia.org/wiki/Peter_Jackson",
+        tags: "O Senhor dos Anéis, O Hobbit, King Kong, Os Espíritos"
+    },
+    {
+        titulo: "Coen Brothers",
+        descricao: "Joel e Ethan Coen, conhecidos como os Coen Brothers, são diretores que misturam humor negro, tragédia e absurdismo em seus filmes. Eles são aclamados por obras como 'Onde os Fracos Não Têm Vez', um thriller sombrio, e 'O Grande Lebowski', uma comédia cult. Seus filmes frequentemente exploram personagens incomuns e dilemas morais.",
+        link: "https://pt.wikipedia.org/wiki/Coen_Brothers",
+        tags: "Onde os Fracos Não Têm Vez, Fargo, O Grande Lebowski, Queime Depois de Ler"
+    },
+    {
+        titulo: "Tim Burton",
+        descricao: "Tim Burton é conhecido por seu estilo visual único e suas narrativas sombrias e fantásticas. Filmes como 'O Estranho Mundo de Jack' e 'Edward Mãos de Tesoura' refletem seu fascínio pelo macabro e o bizarro, misturando elementos góticos com toques de humor. Burton é aclamado por sua criatividade visual e seu estilo inconfundível.",
+        link: "https://pt.wikipedia.org/wiki/Tim_Burton",
+        tags: "O Estranho Mundo de Jack, Edward Mãos de Tesoura, Batman, A Noiva Cadáver"
+    },
+    {
+        titulo: "George Lucas",
+        descricao: "George Lucas é o criador de uma das maiores franquias cinematográficas de todos os tempos, 'Star Wars'. Sua visão revolucionou o cinema de ficção científica e fantasia, trazendo novas tecnologias e inovações para o cinema. Além de 'Star Wars', Lucas também é conhecido por 'Indiana Jones', que co-criou com Steven Spielberg.",
+        link: "https://pt.wikipedia.org/wiki/George_Lucas",
+        tags: "Star Wars, Indiana Jones, THX 1138, American Graffiti"
+    },
+    {
+        titulo: "Walter Salles",
+        descricao: "Walter Salles é um cineasta brasileiro conhecido por sua abordagem sensível e humanista. Seus filmes, como 'Central do Brasil', exploram a condição humana e a jornada emocional dos personagens. Salles também dirigiu 'Diários de Motocicleta', que narra a juventude de Che Guevara. Seu trabalho é amplamente elogiado pela crítica.",
+        link: "https://pt.wikipedia.org/wiki/Walter_Salles",
+        tags: "Central do Brasil, Diários de Motocicleta, Terra Estrangeira, Linha de Passe"
+    },
+    {
+        titulo: "Rian Johnson",
+        descricao: "Rian Johnson é um cineasta americano conhecido por sua habilidade em reinventar gêneros cinematográficos. 'Looper' é uma abordagem inovadora da ficção científica, enquanto 'Entre Facas e Segredos' revitaliza o gênero de mistério. Ele também dirigiu 'Star Wars: Os Últimos Jedi', trazendo uma nova visão para a saga.",
+        link: "https://pt.wikipedia.org/wiki/Rian_Johnson",
+        tags: "Looper, Entre Facas e Segredos, Star Wars: Os Últimos Jedi, A Ponta de um Crime"
+    },
+    {
+        titulo: "Adam McKay",
+        descricao: "Adam McKay começou sua carreira com comédias de sucesso, como 'O Âncora', mas recentemente se destacou por filmes satíricos e de crítica social, como 'A Grande Aposta' e 'Vice'. Seu estilo combina humor e comentários sociais afiados, o que o tornou um dos diretores mais versáteis de Hollywood.",
+        link: "https://pt.wikipedia.org/wiki/Adam_McKay",
+        tags: "A Grande Aposta, Vice, O Âncora, Não Olhe Para Cima"
+    },
+    {
+        titulo: "Sam Mendes",
+        descricao: "Sam Mendes é um diretor britânico conhecido por seu trabalho em filmes como 'Beleza Americana', que ganhou o Oscar de Melhor Diretor. Ele também dirigiu filmes da franquia 'James Bond', como 'Skyfall'. Seus trabalhos são marcados por uma direção visual elegante e uma abordagem introspectiva dos personagens.",
+        link: "https://pt.wikipedia.org/wiki/Sam_Mendes",
+        tags: "Beleza Americana, 1917, Skyfall, Estrada para Perdição"
+    },
+    {
+        titulo: "Alex Garland",
+        descricao: "Alex Garland é um cineasta e roteirista britânico conhecido por sua abordagem inteligente e instigante à ficção científica. 'Ex Machina' explora a inteligência artificial e questões éticas, enquanto 'Aniquilação' mistura terror e ficção científica. Garland é elogiado por suas narrativas complexas e visuais impressionantes.",
+        link: "https://pt.wikipedia.org/wiki/Alex_Garland",
+        tags: "Ex Machina, Aniquilação, Devs, Sunshine"
+    },
+    {
+        titulo: "Ari Aster",
+        descricao: "Ari Aster é um cineasta americano conhecido por seus filmes de terror psicológico, que exploram temas profundos de trauma e disfunção familiar. 'Hereditário' e 'Midsommar' são exemplos de sua habilidade em criar tensão e horror de maneira visualmente impressionante. Aster rapidamente se estabeleceu como um dos novos mestres do gênero.",
+        link: "https://pt.wikipedia.org/wiki/Ari_Aster",
+        tags: "Hereditário, Midsommar"
+    },
+    {
+        titulo: "Robert Eggers",
+        descricao: "Robert Eggers é um diretor americano conhecido por sua recriação meticulosa de épocas passadas e seu estilo visual distinto. Seus filmes de terror psicológico, como 'A Bruxa' e 'O Farol', mergulham em atmosferas sombrias e narrativas perturbadoras. Eggers é elogiado por sua originalidade e atenção ao detalhe.",
+        link: "https://pt.wikipedia.org/wiki/Robert_Eggers",
+        tags: "A Bruxa, O Farol, O Homem do Norte"
     }
 ];
